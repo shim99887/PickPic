@@ -44,7 +44,7 @@
 <br>
 
 ## Tech Stack
-<img src="/uploads/fddbf3c3d4e179810be2e2653dfe4364/image.png" width="800px">
+![image](https://user-images.githubusercontent.com/31751611/111019545-3c843e00-8403-11eb-9d97-3fcc69f82d72.png)
 
 <details>
     <summary>Front 자세히 살펴보기</summary>
@@ -91,7 +91,7 @@
 
 ## ERD
 
-<img src="/uploads/bc47445be3b0b920b1b87435321b59bb/pickpic.png" height="100%">
+![image](https://user-images.githubusercontent.com/31751611/111019536-2f674f00-8403-11eb-8894-68a2b6f34e65.png)
 
 <br>
 
@@ -205,38 +205,39 @@ $ npm run serve
 
 ### 메인 페이지
 
-<img src="/uploads/39bda6dd3ff9c68cf18db4ece2a4947f/image.png" width="800px">
+![image](https://user-images.githubusercontent.com/31751611/111019432-8ae50d00-8402-11eb-9754-c14e9dfa593f.png)
+
 
 
 #### 회원정보 조회
 
 * 회원 정보 조회, 회원 탈퇴 및 수정, 프로필이미지 설정 가능
 
-<img src="/uploads/506795a7dc74f4b5a2004011896b34e1/image.png" width="800px">
+![image](https://user-images.githubusercontent.com/31751611/111019456-b7992480-8402-11eb-951d-8e37103d11a6.png)
 
 ### 관리자 페이지
 
 * 회원 정보 조회, 회원 정보 삭제 가능
 
-<img src="/uploads/215406be9d1b244b665f79bb7ff353c3/image.png" width="800px">
+![image](https://user-images.githubusercontent.com/31751611/111019460-c089f600-8402-11eb-8a06-bd609e94a835.png)
 
 ### 게시판
 
-<img src="/uploads/f813c8cbb73ba6d28440a68bba84d090/image.png" width="800px">
+![image](https://user-images.githubusercontent.com/31751611/111019466-caabf480-8402-11eb-9eea-17a3e64d7cb9.png)
 
 
 ### 게시글
 
 * 게시글 보기
 
-<img src="/uploads/e47a9be3d9bc68a486f21206ee36d424/image.png" height="1000px">
+![image](https://user-images.githubusercontent.com/31751611/111019490-e7482c80-8402-11eb-9452-de601389f03a.png)
 
 
 * 게시글 작성, 수정
 
-<img src="/uploads/7fb164a1d73512dbc8d241c3d8776ab7/image.png" width="800px">
+![image](https://user-images.githubusercontent.com/31751611/111019499-f4fdb200-8402-11eb-877d-b89d0dc96375.png)
 
 
 * 이미지 에디터
 
-<img src="/uploads/4250365621422c47559ccb450db3787a/image.png" width="800px">
+![image](https://user-images.githubusercontent.com/31751611/111019530-22e2f680-8403-11eb-85a4-d9a50e3ee1ac.png)
